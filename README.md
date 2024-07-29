@@ -42,7 +42,7 @@ The system allows you to input user preferences to generate movie recommendation
 2. **Provide User Data**: Enter your user ID or create a new user profile by specifying your movie preferences.
    - For example, you might rate several movies that you have watched.
      - <img src="https://github.com/VIJAY626404/Movie-Recommendation-System/blob/main/outputs/movie1.png" alt="Input Example" width="1000"/>
-   *Image: Example of input data*
+ 
 
 ### 4. Generating Recommendations
 After providing the necessary inputs, run the subsequent cells to generate movie recommendations.
@@ -53,7 +53,7 @@ After providing the necessary inputs, run the subsequent cells to generate movie
 
 The output will display a list of recommended movies tailored to your input preferences.
   - <img src="https://github.com/VIJAY626404/Movie-Recommendation-System/blob/main/outputs/movie2.png" alt="Output Example" width="1000"/>
-*Image: Example of output data*
+
 
 ## Features:
   - User-Based Filtering: Recommends movies based on user similarities.
@@ -69,6 +69,7 @@ The output will display a list of recommended movies tailored to your input pref
   - Contributions are welcome! Please fork the repository and create a pull request with your changes.
     
 ## License:
-- This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/VIJAY626404/Movie-Recommendation-System/blob/main/LICENSE) file for details.
+
 
  
